@@ -383,7 +383,7 @@ export default function Home() {
             viewport={{ once: true }}
           >
             <span className="section-tag">04 / Availability</span>
-            <h3>Let's Orchestrate <br /> Something New.</h3>
+            <h3>Let&apos;s Orchestrate <br /> Something New.</h3>
             <p>
               I am actively seeking engineering internships and collaborative
               open-source cycles. Drop a message to connect.
