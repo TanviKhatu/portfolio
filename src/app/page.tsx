@@ -3,16 +3,13 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import {
-  Projector,
   BookOpen,
-  Globe,
   Mail,
   Menu,
   X,
   ArrowRight,
   CheckCircle2,
   Layers,
-  Code2,
   Cpu,
   Lightbulb
 } from "lucide-react";
